@@ -26,6 +26,7 @@
     margin:0;
     padding:0;
     top:0;
+    
   }
   .Menu{
     display:flow-root
@@ -56,8 +57,8 @@
     list-style: none;
     padding-inline: 0px;
     max-width: 100%; 
-    margin-top: -5px;
-    margin-right: 25px; /*depois que a pagina estiver completa, tirar essa linha */
+    margin-top: -3px;
+    /* margin-right: 25px; depois que a pagina estiver completa, tirar essa linha */
     
 
   }
@@ -74,8 +75,13 @@
     margin-left: -10px;
     margin-top: -3px;
     cursor: pointer;
-    position:fixed;
+    position:absolute
   }
+
+  /* #docs, #about{
+    margin-top: -100px;
+  } */
+
 
   #sup{
     /* bottom: auto; */
@@ -96,14 +102,20 @@
   #titulo{
     max-width: 100%;
     width: 400px;
-    margin:auto;
+    /* margin:auto; */
     margin-top: 53px;
-    margin-left: 38%;
+    margin-left: 39%;
+    display:flex;
     /* position: relative; */
-    opacity:calc(5%)
+    opacity:calc(5%);
+    text-align: center;
+    /* object-fit:none; */
+    cursor:default;
+    
   }
 
   h1{
+    position: relative;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     display: block;
@@ -121,6 +133,5 @@
     background-color: black;
     color: orange;
   }
-
-
+  
   </style>
