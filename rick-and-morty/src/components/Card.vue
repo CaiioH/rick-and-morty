@@ -91,16 +91,16 @@
 
       <div class="containerRS">
         <ul class="redeSocial">
-          <li id="github"><a href="https://github.com/CaiioH"><img src="../assets/RedesSociais/github.png" alt="GitHub"
+          <li id="github"><a href="https://github.com/CaiioH/rick-and-morty" target="_blank"><img src="../assets/RedesSociais/github.png" alt="GitHub"
                 style="max-width: 100%;" /></a></li>
-          <li id="twitter"><a href=""><img src="../assets/RedesSociais/twitter.png" alt="Twitter"
+          <li id="twitter"><a href="" target="_blank"><img src="../assets/RedesSociais/twitter.png" alt="Twitter"
                 style="max-width: 100%;" /></a></li>
-          <li id="suporte"><a href=""><img src="../assets/RedesSociais/coracao.png" alt="Suport"
+          <li id="suporte"><a href="" target="_blank"><img src="../assets/RedesSociais/coracao.png" alt="Suport"
                 style="max-width: 100%;" /></a></li>
         </ul>
       </div>
       <div class="meuPerfil">
-        <p id="pCaio">❮❯ by <a id="caioh" href="https://github.com/CaiioH?tab=repositories">Caio Henrique</a> 2024</p>
+        <p id="pCaio">❮❯ by <a id="caioh" href="https://github.com/CaiioH?tab=repositories" target="_blank">Caio Henrique</a> 2024</p>
 
       </div>
 
